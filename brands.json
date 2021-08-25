@@ -1,0 +1,195 @@
+﻿{
+    "brands": [
+        {
+            "brand": "Samsung",
+            "contact": "1800410000000"
+        },
+        {
+            "brand": "Bluestar",
+            "contact": "18002091177"
+        },
+        {
+            "brand": "Voltas",
+            "contact": "18605994555",
+            "whatsapp": "919650694555"
+        },
+        {
+            "brand": "Hitachi",
+            "contact": "18602584848"
+        },
+        {
+            "brand": "Daikin",
+            "contact": "18601804900"
+        },
+        {
+            "brand": "LG",
+            "contact": "18001805252",
+            "whatsapp": "919711709999"
+        },
+        {
+            "brand": "Carrier",
+            "contact": "180030000000"
+        },
+        {
+            "brand": "Lloyd",
+            "contact": "180042515666"
+        },
+        {
+            "brand": "Godrej",
+            "contact": "18602095511"
+        },
+        {
+            "brand": "Panasonic",
+            "contact": "18001081333"
+        },
+        {
+            "brand": "Whirlpool",
+            "contact": "18601804558"
+        },
+        {
+            "brand": "Onida",
+            "contact": "18001031000"
+        },
+        {
+            "brand": "Haier",
+            "contact": "18002009999"
+        },
+        {
+            "brand": "IFB",
+            "contact": "180030000000"
+        },
+        {
+            "brand": "Sony",
+            "contact": "18001031799"
+        },
+        {
+            "brand": "TCL",
+            "contact": "18004197522"
+        },
+        {
+            "brand": "VU",
+            "contact": "1800228455"
+        },
+        {
+            "brand": "Amstrad",
+            "contact": "1800267777"
+        },
+        {
+            "brand": "Sanyo",
+            "contact": "18004195088"
+        },
+        {
+            "brand": "Oneplus",
+            "contact": "18001028411"
+        },
+        {
+            "brand": "Intex",
+            "contact": "18602085555"
+        },
+        {
+            "brand": "BPL",
+            "contact": "18008891047"
+        },
+        {
+            "brand": "MI",
+            "contact": "18001036286"
+        },
+        {
+            "brand": "Realme",
+            "contact": "18001022777"
+        },
+        {
+            "brand": "Voltas-beko",
+            "contact": "18605994444"
+        },
+        {
+            "brand": "Philips",
+            "contact": "18004256396"
+        },
+        {
+            "brand": "Bosch",
+            "contact": "18002661880"
+        },
+        {
+            "brand": "Wybor",
+            "contact": "8750035000"
+        },
+        {
+            "brand": "Preethi",
+            "contact": "994000005"
+        },
+        {
+            "brand": "Vidiem",
+            "contact": "18001238436"
+        },
+        {
+            "brand": "Butterfly",
+            "contact": "9362059362"
+        },
+        {
+            "brand": "Premier",
+            "contact": "4428365670"
+        },
+        {
+            "brand": "Prestige",
+            "contact": "8046872000"
+        },
+        {
+            "brand": "Pigeon",
+            "contact": "180043000000"
+        },
+        {
+            "brand": "Sowbaghya",
+            "contact": "4428342908"
+        },
+        {
+            "brand": "V-Guard",
+            "contact": "18004250099"
+        },
+        {
+            "brand": "Everest",
+            "contact": "18004250099"
+        },
+        {
+            "brand": "Microtek",
+            "contact": "8754426611"
+        },
+        {
+            "brand": "Faber",
+            "contact": "118002000000"
+        },
+        {
+            "brand": "Elica",
+            "contact": "18002330007"
+        },
+        {
+            "brand": "Orient",
+            "contact": "18001037574",
+            "website": "http://crm.orientelectric.com/getCustomerInfo.jsp"
+        },
+        {
+            "brand": "Crompton",
+            "contact": "18004190505",
+            "whatsapp": "917428713838",
+            "website": "https://care.crompton.co.in/CromptonLandingPage/"
+        },
+        {
+            "brand": "Havells",
+            "contact": "1800110303",
+            "whatsapp": "919711773333"
+        },
+        {
+            "brand": "Usha",
+            "contact": "18001033111",
+            "website": "https://m.usha.com/support"
+        },
+        {
+            "brand": "Hanbao",
+            "contact": "04442888954"
+        },
+        {
+            "brand": "Mitsubishi",
+            "contact": "18001022626"
+        }
+    ]
+}
