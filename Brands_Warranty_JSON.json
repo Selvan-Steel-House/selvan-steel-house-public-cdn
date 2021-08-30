@@ -1,0 +1,2721 @@
+﻿{
+  "brands": [
+    {
+      "brand_id": "butterfly",
+      "brand_name": "BUTTERFLY",
+      "products": [
+        {
+          "product_id": "steel_gas_stove",
+          "product_name": "STEEL GAS STOVE",
+          "models": [
+            {
+              "model_id": "steel_stove_rhino",
+              "model_name": "STEEL STOVE-RHINO",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "steel_warranty",
+                  "warranty_name": "Steel warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "ace",
+              "model_name": "ACE",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "steel_warranty",
+                  "warranty_name": "Steel warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "friendly",
+              "model_name": "FRIENDLY",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "steel_warranty",
+                  "warranty_name": "Steel warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "2000",
+              "model_name": "2000",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "steel_warranty",
+                  "warranty_name": "Steel warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "quadro_4b",
+              "model_name": "QUADRO 4B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "steel_warranty",
+                  "warranty_name": "Steel warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "friendly_3b",
+              "model_name": "FRIENDLY 3B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "steel_warranty",
+                  "warranty_name": "Steel warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "blaze_2b",
+              "model_name": "BLAZE 2B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "steel_warranty",
+                  "warranty_name": "Steel warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "blaze_3b",
+              "model_name": "BLAZE 3B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "steel_warranty",
+                  "warranty_name": "Steel warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "blaze_4b",
+              "model_name": "BLAZE 4B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "steel_warranty",
+                  "warranty_name": "Steel warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "matchless_2b",
+              "model_name": "MATCHLESS 2B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "steel_warranty",
+                  "warranty_name": "Steel warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "matchless_3b",
+              "model_name": "MATCHLESS 3B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "steel_warranty",
+                  "warranty_name": "Steel warranty",
+                  "years": "5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "glass_top_stove",
+          "product_name": "GLASS TOP STOVE",
+          "models": [
+            {
+              "model_id": "duo_2b",
+              "model_name": "DUO 2B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "glass_warranty",
+                  "warranty_name": "Glass warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "duo_plus_2b",
+              "model_name": "DUO+2B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "glass_warranty",
+                  "warranty_name": "Glass warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "trio_3b",
+              "model_name": "TRIO 3B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "glass_warranty",
+                  "warranty_name": "Glass warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "trio_plus_3b",
+              "model_name": "TRIO+3B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "glass_warranty",
+                  "warranty_name": "Glass warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "jet_2b",
+              "model_name": "JET 2B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "glass_warranty",
+                  "warranty_name": "Glass warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "jet_3b",
+              "model_name": "JET 3B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "glass_warranty",
+                  "warranty_name": "Glass warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "radiant_2b",
+              "model_name": "RADIANT 2B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "glass_warranty",
+                  "warranty_name": "Glass warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "radiant_3b",
+              "model_name": "RADIANT 3B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "glass_warranty",
+                  "warranty_name": "Glass warranty",
+                  "years": "5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "aluminium_cooker",
+          "product_name": "ALUMINIUM COOKER",
+          "models": [
+            {
+              "model_id": "std_3l",
+              "model_name": "STD 3L",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "std_5l",
+              "model_name": "STD 5L",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "std_7_point_5l",
+              "model_name": "STD 7.5L",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "std_10l",
+              "model_name": "STD 10L",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "std_p_point_pan",
+              "model_name": "STD P.PAN",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "std_plus_3l",
+              "model_name": "STD PLUS 3L",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "std_plus_5l",
+              "model_name": "STD PLUS 5L",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "std_plus_7_point_5l",
+              "model_name": "STD PLUS 7.5L",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "std_plus_10l",
+              "model_name": "STD PLUS 10L",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "std_plus_12l",
+              "model_name": "STD PLUS 12L",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "std_plus_p_point_pan",
+              "model_name": "STD PLUS P.PAN",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "pearl_plus_3l",
+              "model_name": "PEARL PLUS 3L",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "pearl_plus_5l",
+              "model_name": "PEARL PLUS 5L",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "superb_plus_3l",
+              "model_name": "SUPERB PLUS 3L",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "superb_plus_5l",
+              "model_name": "SUPERB PLUS 5L",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "elegant_plus_3l",
+              "model_name": "ELEGANT PLUS 3L",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "elegant_plus_5l",
+              "model_name": "ELEGANT PLUS 5L",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "steel_cooker",
+          "product_name": "STEEL COOKER",
+          "models": [
+            {
+              "model_id": "blue__line_2l",
+              "model_name": "BLUE LINE 2L",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "blue__line_3l",
+              "model_name": "BLUE LINE 3L",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "blue__line_5l",
+              "model_name": "BLUE LINE 5L",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "blue__line_7_point5l",
+              "model_name": "BLUE LINE 7.5L",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "blue__line_10l",
+              "model_name": "BLUE LINE 10L",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "blue_line_p_point_pan_small",
+              "model_name": "BLUE LINE P.PAN SMALL",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "blue_line_p_point_pan_big",
+              "model_name": "BLUE LINE P.PAN BIG",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "cute_curve_2l",
+              "model_name": "CUTE CURVE 2L",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "cute_curve_3l",
+              "model_name": "CUTE CURVE 3L",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "cute_curve_5_point_5l",
+              "model_name": "CUTE CURVE 5.5L",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "compact_1_point_5l",
+              "model_name": "COMPACT 1.5L",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "compact_2l",
+              "model_name": "COMPACT 2L",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "grinder",
+          "product_name": "GRINDER",
+          "models": [
+            {
+              "model_id": "rhino_2l",
+              "model_name": "RHINO 2L",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "rhino__plus_wa",
+              "model_name": "RHINO PLUS W/A",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "rhino_plus_v2_2_point_0",
+              "model_name": "RHINO PLUS V2 2.0",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "peerless_2_point0l",
+              "model_name": "PEERLESS 2.0L",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "nonstick",
+          "product_name": "NONSTICK",
+          "models": [
+            {
+              "model_id": "nonstick_model",
+              "model_name": "NONSTICK",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "coating_warranty",
+                  "warranty_name": "Coating warranty",
+                  "years": "5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "flask",
+          "product_name": "FLASK",
+          "models": [
+            {
+              "model_id": "flask_model",
+              "model_name": "FLASK",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "electric_rice_cooker",
+          "product_name": "ELECTRIC RICE COOKER",
+          "models": [
+            {
+              "model_id": "electric_rice_cooker_model",
+              "model_name": "ELECTRIC RICE COOKER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "induction_stove",
+          "product_name": "INDUCTION STOVE",
+          "models": [
+            {
+              "model_id": "induction_stove_model",
+              "model_name": "INDUCTION STOVE",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "mixer_grinder",
+          "product_name": "MIXER GRINDER",
+          "models": [
+            {
+              "model_id": "grand_plus_3jar_500w",
+              "model_name": "GRAND PLUS 3JAR 500W",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "3"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "grand_plus_3jar_750w",
+              "model_name": "GRAND PLUS 3JAR 750W",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "3"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "grand_plus_4jar_500w",
+              "model_name": "GRAND PLUS 4JAR 500W",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "3"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "handy_v2",
+              "model_name": "HANDY V2",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "rhino_turbo_3jar",
+              "model_name": "RHINO TURBO 3JAR",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "3"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "cyclone_4jar",
+              "model_name": "CYCLONE 4JAR",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "3"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "pebble_plus_4jar",
+              "model_name": "PEBBLE PLUS 4JAR",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "3"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "splendid",
+              "model_name": "SPLENDID",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "3"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "jet_3jar_750w",
+              "model_name": "JET 3JAR 750W",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "3"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "jet_4jar_750w",
+              "model_name": "JET 4JAR 750W",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "3"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "stallion_4jar",
+              "model_name": "STALLION 4JAR",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "3"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "matchless_3jar",
+              "model_name": "MATCHLESS 3JAR",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "3"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "matchless_4jar_750w",
+              "model_name": "MATCHLESS 4JAR 750W",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "3"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "pebble_750w_3jar",
+              "model_name": "PEBBLE 750W 3JAR",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "3"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "desire_3jar_ss",
+              "model_name": "DESIRE 3JAR SS",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "3"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "desire_4jar_ss",
+              "model_name": "DESIRE 4JAR SS",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "3"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "desire_3jar",
+              "model_name": "DESIRE 3JAR",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "3"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "desire_4jar",
+              "model_name": "DESIRE 4JAR",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "3"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "spectra_4jar",
+              "model_name": "SPECTRA 4JAR",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "3"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "spectra_3jar",
+              "model_name": "SPECTRA 3JAR",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "3"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "cyclone_3jar_750w",
+              "model_name": "CYCLONE 3JAR 750W",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "3"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "tornado_3jar_750w",
+              "model_name": "TORNADO 3JAR 750W",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "3"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "opal_3jar_750w",
+              "model_name": "OPAL 3JAR 750W",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "3"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "ruby_3jar_750w",
+              "model_name": "RUBY 3JAR 750W",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "3"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "grand_xl",
+              "model_name": "GRAND XL",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "3"
+                }
+              ]
+            },
+            {
+              "model_id": "ivory_plus_3jar",
+              "model_name": "IVORY PLUS 3 JAR",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "3"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "jet_elite_3jar",
+              "model_name": "JET ELITE 3 JAR",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "jet_elite_4jar",
+              "model_name": "JET ELITE 4 JAR",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "koral_4jar",
+              "model_name": "KORAL 4 JAR",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "3"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "tulip_4jar_750w",
+              "model_name": "TULIP 4 JAR 750W",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "3"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "ivory",
+              "model_name": "IVORY",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "3"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "pebble_600w_3jar",
+              "model_name": "PEBBLE 600W 3 JAR",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "3"
+                }
+              ]
+            },
+            {
+              "model_id": "grand_500w_3jar",
+              "model_name": "GRAND 500W 3 JAR",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "3"
+                }
+              ]
+            },
+            {
+              "model_id": "signature",
+              "model_name": "SIGNATURE",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "3"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "amirthaa",
+      "brand_name": "AMIRTHAA",
+      "products": [
+        {
+          "product_id": "grinder",
+          "product_name": "GRINDER",
+          "models": [
+            {
+              "model_id": "lion",
+              "model_name": "LION",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "popular",
+              "model_name": "POPULAR",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "classic_2r_2_point5l",
+              "model_name": "CLASSIC 2R 2.5L",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "tlt",
+              "model_name": "TLT",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "ace_1_point25l",
+              "model_name": "ACE 1.25L",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "sleek_plus",
+              "model_name": "SLEEK PLUS",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "pigeon",
+      "brand_name": "PIGEON",
+      "products": [
+        {
+          "product_id": "induction_stove",
+          "product_name": "INDUCTION STOVE",
+          "models": [
+            {
+              "model_id": "induction_stove_pigeon",
+              "model_name": "PIGEON INDUCTION STOVE",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "non_stick",
+          "product_name": "NON STICK",
+          "models": [
+            {
+              "model_id": "nonstick_pigeon",
+              "model_name": "PIGEON NON STICK",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "iron_box",
+          "product_name": "IRON BOX",
+          "models": [
+            {
+              "model_id": "iron_box_pigeon",
+              "model_name": "PIGEON IRON BOX",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "cooker",
+          "product_name": "COOKER",
+          "models": [
+            {
+              "model_id": "cooker_pigeon",
+              "model_name": "PIGEON COOKER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "tawa",
+          "product_name": "TAWA",
+          "models": [
+            {
+              "model_id": "tawa_pigeon",
+              "model_name": "PIGEON TAWA",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "chimney",
+          "product_name": "CHIMNEY",
+          "models": [
+            {
+              "model_id": "chimney_pigeon",
+              "model_name": "PIGEON CHIMNEY",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "stove",
+          "product_name": "STOVE",
+          "models": [
+            {
+              "model_id": "glass_top",
+              "model_name": "GLASS TOP",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "vidiem",
+      "brand_name": "VIDIEM",
+      "products": [
+        {
+          "product_id": "mixie",
+          "product_name": "MIXIE",
+          "models": [
+            {
+              "model_id": "adc",
+              "model_name": "ADC",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "eva_carbon_750w",
+              "model_name": "EVA CARBON 750W",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "eva_citron_750w",
+              "model_name": "EVA CITRON 750W",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "eva_mango_750w",
+              "model_name": "EVA MANGO 750W",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "eva_nero_750w",
+              "model_name": "EVA NERO 750W",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "eva_premium_750w",
+              "model_name": "EVA PREMIUM 750W",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "eva_rose_750w",
+              "model_name": "EVA ROSE 750W",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "jumbo_juice",
+              "model_name": "JUMBO JUICE",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "jumbo_mix_pro",
+              "model_name": "JUMBO MIX PRO",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "roc",
+              "model_name": "ROC",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "super_blu_750w",
+              "model_name": "SUPER BLU 750W",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "versa_premium",
+              "model_name": "VERSA PREMIUM",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "vision_650w",
+              "model_name": "VISION 650W",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "vision_750w",
+              "model_name": "VISION 750W",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "vstar_chrome",
+              "model_name": "VSTAR CHROME",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "vstar_chrome_110v",
+              "model_name": "VSTAR CHROME 110V",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "vstar_evo",
+              "model_name": "VSTAR EVO",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "vstar_evo_plus",
+              "model_name": "VSTAR EVO PLUS",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "vstar_premium",
+              "model_name": "VSTAR PREMIUM",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "vstar_rose",
+              "model_name": "VSTAR ROSE",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "steel_stove",
+          "product_name": "STEEL STOVE",
+          "models": [
+            {
+              "model_id": "vector_plus_3b",
+              "model_name": "VECTOR PLUS 3B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "vector_2b",
+              "model_name": "VECTOR 2B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "vector_nero_2b",
+              "model_name": "VECTOR NERO 2B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "viva_ss_2b",
+              "model_name": "VIVA SS 2B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "vviva_ss_3b",
+              "model_name": "VIVA SS 3B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "glass_top_stove",
+          "product_name": "GLASS TOP STOVE",
+          "models": [
+            {
+              "model_id": "air_oro_ceramic_3b",
+              "model_name": "AIR ORO CERAMIC 3B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            },
+            {
+              "model_id": "air_plus_2b_ai",
+              "model_name": "AIR PLUS 2B AI",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            },
+            {
+              "model_id": "air_plus_3b_ai",
+              "model_name": "AIR PLUS 3B AI",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            },
+            {
+              "model_id": "air_plus_2b",
+              "model_name": "AIR PLUS 2B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            },
+            {
+              "model_id": "air_plus_3b",
+              "model_name": "AIR PLUS 3B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            },
+            {
+              "model_id": "air_pride_2b",
+              "model_name": "AIR PRIDE 2B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            },
+            {
+              "model_id": "air_pride_3b",
+              "model_name": "AIR PRIDE 3B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            },
+            {
+              "model_id": "air_pride_4b",
+              "model_name": "AIR PRIDE 4B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            },
+            {
+              "model_id": "air_silver_3b",
+              "model_name": "AIR SILVER 3B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            },
+            {
+              "model_id": "air_silver_4b",
+              "model_name": "AIR SILVER 4B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            },
+            {
+              "model_id": "edge_shine_2b",
+              "model_name": "EDGE SHINE 2B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            },
+            {
+              "model_id": "edge_shine_3b",
+              "model_name": "EDGE SHINE 3B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            },
+            {
+              "model_id": "hob_3b",
+              "model_name": "HOB 3B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            },
+            {
+              "model_id": "hob_4b",
+              "model_name": "HOB 4B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            },
+            {
+              "model_id": "viva_2b",
+              "model_name": "VIVA 2B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            },
+            {
+              "model_id": "viva_3b",
+              "model_name": "VIVA 3B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "grinder",
+          "product_name": "GRINDER",
+          "models": [
+            {
+              "model_id": "iris_adc",
+              "model_name": "IRIS ADC",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "iris_jewel",
+              "model_name": "IRIS JEWEL",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "iris_jewel_110v",
+              "model_name": "IRIS JEWEL 110V",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "garnet_plus",
+              "model_name": "GARNET PLUS",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "topaz",
+              "model_name": "TOPAZ",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "vision_st",
+              "model_name": "VISION ST",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "preethi",
+      "brand_name": "PREETHI",
+      "products": [
+        {
+          "product_id": "grinder",
+          "product_name": "GRINDER",
+          "models": [
+            {
+              "model_id": "iconic_with_rohs",
+              "model_name": "ICONIC WITH ROHS",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "astra_with_rohs",
+              "model_name": "ASTRA WITH ROHS",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "power_grind",
+              "model_name": "POWER GRINDER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "lavender_grind",
+              "model_name": "LAVENDER GRIND",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "smart_grind",
+              "model_name": "SMART GRIND",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "astra_expert",
+              "model_name": "ASTRA EXPERT",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "mixer_grinder",
+          "product_name": "MIXER GRINDER",
+          "models": [
+            {
+              "model_id": "zodiac_cosmo",
+              "model_name": "ZODIAC COSMO",
+              "warranty_details": [
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "zodiac_2_point_0",
+              "model_name": "ZODIAC 2.0",
+              "warranty_details": [
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "zodiac",
+              "model_name": "ZODIAC",
+              "warranty_details": [
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "expro_duo",
+              "model_name": "EXPRO DUO",
+              "warranty_details": [
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "strom",
+              "model_name": "STORM",
+              "warranty_details": [
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "steel_supreme",
+              "model_name": "STEEL SUPREME",
+              "warranty_details": [
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "taurus",
+              "model_name": "TAURUS",
+              "warranty_details": [
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "mystic",
+              "model_name": "MYSTIC",
+              "warranty_details": [
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "platinum",
+              "model_name": "PLATINUM",
+              "warranty_details": [
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "aries",
+              "model_name": "ARIES",
+              "warranty_details": [
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "eco_plus",
+              "model_name": "ECO PLUS",
+              "warranty_details": [
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "gold",
+              "model_name": "GOLD",
+              "warranty_details": [
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "chefpro",
+              "model_name": "CHEFPRO",
+              "warranty_details": [
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "lavender_pro",
+              "model_name": "LAVENDER PRO",
+              "warranty_details": [
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "daisy",
+              "model_name": "DAISY",
+              "warranty_details": [
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "blueberry",
+              "model_name": "BLUEBERRY",
+              "warranty_details": [
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "popular",
+              "model_name": "POPULAR",
+              "warranty_details": [
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "silver",
+              "model_name": "SILVER",
+              "warranty_details": [
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "eco_chef",
+              "model_name": "ECO CHEF",
+              "warranty_details": [
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "galaxy",
+              "model_name": "GALAXY",
+              "warranty_details": [
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "crown_pink",
+              "model_name": "CROWN PINK (super extractor)",
+              "warranty_details": [
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "lavender",
+              "model_name": "LAVENDER",
+              "warranty_details": [
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "lavender_black",
+              "model_name": "LAVENDER BLACK",
+              "warranty_details": [
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "elite_600w",
+              "model_name": "ELITE 600W",
+              "warranty_details": [
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "crystal",
+              "model_name": "CRYSTAL",
+              "warranty_details": [
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "trio",
+              "model_name": "TRIO",
+              "warranty_details": [
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "eco_chef_neo",
+              "model_name": "ECO CHEF NEO",
+              "warranty_details": [
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "evo_chef_star",
+              "model_name": "EVO CHEF STAR",
+              "warranty_details": [
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "crown",
+              "model_name": "CROWN",
+              "warranty_details": [
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "steele_110v_wo_extractor",
+              "model_name": "STEELE 110V W/O EXTRACTOR",
+              "warranty_details": [
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "110v_platinum",
+              "model_name": "110V PLATINUM",
+              "warranty_details": [
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "110v_evo_plus",
+              "model_name": "110V EVO PLUS",
+              "warranty_details": [
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
