@@ -1,4 +1,4 @@
-﻿{
+{
   "brands": [
     {
       "brand_id": "butterfly",
@@ -1581,6 +1581,23 @@
               ]
             }
           ]
+        },
+        {
+          "product_id": "otg",
+          "product_name": "OTG",
+          "models": [
+            {
+              "model_id": "otg_model",
+              "model_name": "PIGEON OTG",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -1986,7 +2003,7 @@
                 {
                   "warranty_id": "total_warranty",
                   "warranty_name": "Total warranty",
-                  "years": "1"
+                  "years": "2"
                 }
               ]
             },
@@ -1997,7 +2014,7 @@
                 {
                   "warranty_id": "total_warranty",
                   "warranty_name": "Total warranty",
-                  "years": "1"
+                  "years": "2"
                 }
               ]
             },
@@ -2008,7 +2025,7 @@
                 {
                   "warranty_id": "total_warranty",
                   "warranty_name": "Total warranty",
-                  "years": "1"
+                  "years": "2"
                 }
               ]
             },
@@ -2019,7 +2036,7 @@
                 {
                   "warranty_id": "total_warranty",
                   "warranty_name": "Total warranty",
-                  "years": "1"
+                  "years": "2"
                 }
               ]
             },
@@ -2030,7 +2047,7 @@
                 {
                   "warranty_id": "total_warranty",
                   "warranty_name": "Total warranty",
-                  "years": "1"
+                  "years": "2"
                 }
               ]
             },
@@ -2041,7 +2058,7 @@
                 {
                   "warranty_id": "total_warranty",
                   "warranty_name": "Total warranty",
-                  "years": "1"
+                  "years": "2"
                 }
               ]
             },
@@ -2052,7 +2069,12 @@
                 {
                   "warranty_id": "total_warranty",
                   "warranty_name": "Total warranty",
-                  "years": "1"
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "glass_warranty",
+                  "warranty_name": "Glass warranty",
+                  "years": "5"
                 }
               ]
             },
@@ -2063,7 +2085,12 @@
                 {
                   "warranty_id": "total_warranty",
                   "warranty_name": "Total warranty",
-                  "years": "1"
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "glass_warranty",
+                  "warranty_name": "Glass warranty",
+                  "years": "5"
                 }
               ]
             },
@@ -2074,7 +2101,7 @@
                 {
                   "warranty_id": "total_warranty",
                   "warranty_name": "Total warranty",
-                  "years": "1"
+                  "years": "2"
                 }
               ]
             },
@@ -2085,7 +2112,7 @@
                 {
                   "warranty_id": "total_warranty",
                   "warranty_name": "Total warranty",
-                  "years": "1"
+                  "years": "2"
                 }
               ]
             },
@@ -2096,7 +2123,12 @@
                 {
                   "warranty_id": "total_warranty",
                   "warranty_name": "Total warranty",
-                  "years": "1"
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "glass_warranty",
+                  "warranty_name": "Glass warranty",
+                  "years": "5"
                 }
               ]
             },
@@ -2107,7 +2139,12 @@
                 {
                   "warranty_id": "total_warranty",
                   "warranty_name": "Total warranty",
-                  "years": "1"
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "glass_warranty",
+                  "warranty_name": "Glass warranty",
+                  "years": "5"
                 }
               ]
             },
@@ -2118,7 +2155,7 @@
                 {
                   "warranty_id": "total_warranty",
                   "warranty_name": "Total warranty",
-                  "years": "1"
+                  "years": "2"
                 }
               ]
             },
@@ -2129,7 +2166,7 @@
                 {
                   "warranty_id": "total_warranty",
                   "warranty_name": "Total warranty",
-                  "years": "1"
+                  "years": "2"
                 }
               ]
             },
@@ -2140,7 +2177,12 @@
                 {
                   "warranty_id": "total_warranty",
                   "warranty_name": "Total warranty",
-                  "years": "1"
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "glass_warranty",
+                  "warranty_name": "Glass warranty",
+                  "years": "5"
                 }
               ]
             },
@@ -2151,7 +2193,76 @@
                 {
                   "warranty_id": "total_warranty",
                   "warranty_name": "Total warranty",
-                  "years": "1"
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "glass_warranty",
+                  "warranty_name": "Glass warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "viva_sky_2b",
+              "model_name": "VIVA SKY 2B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "glass_warranty",
+                  "warranty_name": "Glass warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "viva_sky_3b",
+              "model_name": "VIVA SKY 3B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "glass_warranty",
+                  "warranty_name": "Glass warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "air_style_plus_3b",
+              "model_name": "AIR STYLE PLUS 3B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "glass_warranty",
+                  "warranty_name": "Glass warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "air_style_plus_4b",
+              "model_name": "AIR STYLE PLUS 4B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "glass_warranty",
+                  "warranty_name": "Glass warranty",
+                  "years": "5"
                 }
               ]
             }
@@ -2352,6 +2463,803 @@
                   "warranty_id": "motor_warranty",
                   "warranty_name": "Motor warranty",
                   "years": "5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "iron_box",
+          "product_name": "IRON BOX",
+          "models": [
+            {
+              "model_id": "iron_box_model",
+              "model_name": "IRON BOX",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "juicer",
+          "product_name": "JUICER",
+          "models": [
+            {
+              "model_id": "essence_juicer",
+              "model_name": "ESSENCE JUICER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "atta_kneader",
+          "product_name": "ATTA KNEADER",
+          "models": [
+            {
+              "model_id": "atta_kneader_chopper",
+              "model_name": "ATTA KNEADER/CHOPPER BOWL",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "chopper",
+          "product_name": "CHOPPER",
+          "models": [
+            {
+              "model_id": "turbo_chop",
+              "model_name": "TURBO CHOP",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "coffee_maker",
+          "product_name": "COFFEE MAKER",
+          "models": [
+            {
+              "model_id": "d_cafe_6_208",
+              "model_name": "D CAFE 6 208",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "ms_coated",
+          "product_name": "MS COATED",
+          "models": [
+            {
+              "model_id": "blueflame_electra_3b",
+              "model_name": "BLUEFLAME ELECTRA 3B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "glass_warranty",
+                  "warranty_name": "Glass warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "gleam_2b_domestic",
+              "model_name": "GLEAM 2B DOMESTIC",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "glass_warranty",
+                  "warranty_name": "Glass warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "smart_2b",
+              "model_name": "SMART 2B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "glass_warranty",
+                  "warranty_name": "Glass warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "sparkle_t_pipe",
+              "model_name": "SPARKLE T PIPE",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "glass_warranty",
+                  "warranty_name": "Glass warranty",
+                  "years": "5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "kitchenwood_chimney",
+          "product_name": "KITCHENHOOD/CHIMENY",
+          "models": [
+            {
+              "model_id": "alcor_90cm",
+              "model_name": "ALCOR 90CM (3filters)",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "alcor_kh_205",
+              "model_name": "ALCOR KH 205",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "alcor_kh_206",
+              "model_name": "ALCOR KH 206",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "alcor_kh_207",
+              "model_name": "ALCOR KH 207",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "alcor_kh_208",
+              "model_name": "ALCOR KH 208",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "alya_kh_203",
+              "model_name": "ALYA KH203",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "alya_kh_204",
+              "model_name": "ALYA KH204",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "alya_kh_209",
+              "model_name": "ALYA KH209",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "induction_stove",
+          "product_name": "INDUCTION STOVE",
+          "models": [
+            {
+              "model_id": "induction_stove_model",
+              "model_name": "INDUCTION STOVE",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "kettle",
+          "product_name": "KETTLE",
+          "models": [
+            {
+              "model_id": "kettle_model",
+              "model_name": "KETTLE",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "glass_top_stove",
+          "product_name": "GLASS TOP STOVE",
+          "models": [
+            {
+              "model_id": "saint_gobain_valentino",
+              "model_name": "SAINT GOBAIN VALENTINO",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "glass_warranty",
+                  "warranty_name": "Glass warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "sparkle_nature_3b",
+              "model_name": "SPARKLE NATURE 3B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "glass_warranty",
+                  "warranty_name": "Glass warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "sparkle_marigold_3b",
+              "model_name": "SPARKLE MARIGOLD 3B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "glass_warranty",
+                  "warranty_name": "Glass warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "gleam_nature_2b",
+              "model_name": "GLEAM NATURE 2B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "glass_warranty",
+                  "warranty_name": "Glass warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "gleam_marigold_3b",
+              "model_name": "GLEAM MARIGOLD 3B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "glass_warranty",
+                  "warranty_name": "Glass warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "zeal_3b",
+              "model_name": "ZEAL 3B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "glass_warranty",
+                  "warranty_name": "Glass warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "zeal_2b",
+              "model_name": "ZEAL 2B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "glass_warranty",
+                  "warranty_name": "Glass warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "decor_4b",
+              "model_name": "DECOR 4B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "glass_warranty",
+                  "warranty_name": "Glass warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "decor_3b",
+              "model_name": "DECOR 3B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "glass_warranty",
+                  "warranty_name": "Glass warranty",
+                  "years": "5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "steel_stove",
+          "product_name": "STEEL STOVE",
+          "models": [
+            {
+              "model_id": "bf_blaze_ai_blaze",
+              "model_name": "BF BLAZE AI BLAZE",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "jumbo_4b",
+              "model_name": "JUMBO 4B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "jumbo_max_4b",
+              "model_name": "JUMBO MAX 4B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "blaze_t_pipe",
+              "model_name": "BLAZE T PIPE",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "stylo_steel_slim_3b",
+              "model_name": "STYLO STEEL SLIM 3B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "streak_st_2b",
+              "model_name": "STREAK ST 2B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "ssgs_shine",
+              "model_name": "SSGS SHINE",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "ember_ssgs_3b",
+              "model_name": "EMBER SSGS 3B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "topaz_ssgs_3b",
+              "model_name": "TOPAZ SSGS 3B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "ssgs_stellar_3b",
+              "model_name": "SSGS STELLAR 3B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "vesta_ssgs_2b",
+              "model_name": "VESTA SSGS 2B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "elda_ssgs_2b",
+              "model_name": "ELDA SSGS 2B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "fino_ssgs",
+              "model_name": "FINO SSGS",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "ssgs_glare_2b",
+              "model_name": "SSGS GLARE 2B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "ssgs_storm_1b",
+              "model_name": "SSGS STORM 1B",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "electric_rice_cooker",
+          "product_name": "ELECTRIC RICE  COOKER",
+          "models": [
+            {
+              "model_id": "glitter_2_point_2l_single_pan",
+              "model_name": "GLITTER 2.2L SINGLE PAN",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "rc320_1_point_8l_dp",
+              "model_name": "RC320 1.8L DP",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "glitter_1_point_8l_double_pan",
+              "model_name": "GLITTER 1.8L DOUBLE PAN",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "rc320_1_point_8l",
+              "model_name": "RC320 1.8L",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "glitter_1_point_8l_single_pan",
+              "model_name": "GLITTER 1.8L SINGLE PAN",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "rc319_1l",
+              "model_name": "RC319 1L",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "glitter_1l_single_pan",
+              "model_name": "GLITTER 1L SINGLE PAN",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "perfect_0_point_6",
+              "model_name": "PERFECT 0.6",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "armour_insta_1_point_8l",
+              "model_name": "ARMOUR INSTA 1.8L",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "armour_1_point_8l",
+              "model_name": "ARMOUR 1.8L",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "armour_multio_utility_1_point_2l",
+              "model_name": "ARMOUR MULTIO UTILITY 1.2L",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "armour_1l",
+              "model_name": "ARMOUR 1L",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "touch_6l",
+              "model_name": "TOUCH 6L",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "rc321_2_point_2l_dp",
+              "model_name": "RC 321 2.2L DP",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "glitter_2_point_2l_dpan",
+              "model_name": "GLITTER 2.2L DPAN",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "rc321_2_point_2l",
+              "model_name": "RC 321 2.2L ",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "primo_flora",
+              "model_name": "PRIMO FLORA",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
                 }
               ]
             }
@@ -2710,6 +3618,2861 @@
                   "warranty_id": "motor_warranty",
                   "warranty_name": "Motor warranty",
                   "years": "5"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "ifb",
+      "brand_name": "IFB",
+      "products": [
+        {
+          "product_id": "washing_machine",
+          "product_name": "WASHING MACHINE",
+          "models": [
+            {
+              "model_id": "fully",
+              "model_name": "FULLY",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "4"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "10"
+                }
+              ]
+            },
+            {
+              "model_id": "front",
+              "model_name": "FRONT",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "4"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "10"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "bosch",
+      "brand_name": "BOSCH",
+      "products": [
+        {
+          "product_id": "washing_machine",
+          "product_name": "WASHING MACHINE",
+          "models": [
+            {
+              "model_id": "fully",
+              "model_name": "FULLY",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "10"
+                }
+              ]
+            },
+            {
+              "model_id": "front",
+              "model_name": "FRONT",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "12"
+                }
+              ]
+            },
+            {
+              "model_id": "front_mid_premium",
+              "model_name": "FRONT - MID&PREMIUM",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "3"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "12"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "fridge",
+          "product_name": "FRIDGE",
+          "models": [
+            {
+              "model_id": "fridge_model",
+              "model_name": "FRIDGE",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "compressor_warranty",
+                  "warranty_name": "Compressor warranty",
+                  "years": "10"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "dishwasher",
+          "product_name": "DISHWASHER",
+          "models": [
+            {
+              "model_id": "dishwasher_model",
+              "model_name": "DISHWASHER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "compressor_warranty",
+                  "warranty_name": "Compressor warranty",
+                  "years": "10"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "hood_hob_oven",
+          "product_name": "HOOD/HOB/OVEN",
+          "models": [
+            {
+              "model_id": "hood_hob_oven_model",
+              "model_name": "HOOD/HOB/OVEN",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "microwave",
+          "product_name": "MICROWAVE",
+          "models": [
+            {
+              "model_id": "microwave_model",
+              "model_name": "MICROWAVE(Free standing cooker)",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "magnetron_warranty",
+                  "warranty_name": "Magnetron warranty",
+                  "years": "7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "wash_dryer",
+          "product_name": "WASH DRYER",
+          "models": [
+            {
+              "model_id": "wash_dryer_model",
+              "model_name": "WASH DRYER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "12"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "sony",
+      "brand_name": "SONY",
+      "products": [
+        {
+          "product_id": "tv",
+          "product_name": "TV",
+          "models": [
+            {
+              "model_id": "tv_model",
+              "model_name": "SONY TV",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "home_theatre",
+          "product_name": "HOME THEATER",
+          "models": [
+            {
+              "model_id": "home_theatre_model",
+              "model_name": "SONY HOME THEATER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "oneplus",
+      "brand_name": "ONEPLUS",
+      "products": [
+        {
+          "product_id": "tv",
+          "product_name": "TV",
+          "models": [
+            {
+              "model_id": "tv_model",
+              "model_name": "ONEPLUS TV",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "realme",
+      "brand_name": "REALME",
+      "products": [
+        {
+          "product_id": "tv",
+          "product_name": "TV",
+          "models": [
+            {
+              "model_id": "tv_model",
+              "model_name": "REALME TV",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "mi",
+      "brand_name": "MI",
+      "products": [
+        {
+          "product_id": "tv",
+          "product_name": "TV",
+          "models": [
+            {
+              "model_id": "tv_model",
+              "model_name": "MI TV",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "toshiba",
+      "brand_name": "TOSHIBA",
+      "products": [
+        {
+          "product_id": "tv",
+          "product_name": "TV",
+          "models": [
+            {
+              "model_id": "tv_model",
+              "model_name": "TOSHIBA TV",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "bpl",
+      "brand_name": "BPL",
+      "products": [
+        {
+          "product_id": "tv",
+          "product_name": "TV",
+          "models": [
+            {
+              "model_id": "tv_model",
+              "model_name": "BPL TV",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "vu",
+      "brand_name": "VU",
+      "products": [
+        {
+          "product_id": "tv",
+          "product_name": "TV",
+          "models": [
+            {
+              "model_id": "tv_model",
+              "model_name": "VU TV",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "hyundai",
+      "brand_name": "HYUNDAI",
+      "products": [
+        {
+          "product_id": "tv",
+          "product_name": "TV",
+          "models": [
+            {
+              "model_id": "tv_model",
+              "model_name": "HYUNDAI TV",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "amstrad",
+      "brand_name": "AMSTRAD",
+      "products": [
+        {
+          "product_id": "tv",
+          "product_name": "TV",
+          "models": [
+            {
+              "model_id": "tv_model",
+              "model_name": "AMSTRAD TV",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "crompton",
+      "brand_name": "CROMPTON",
+      "products": [
+        {
+          "product_id": "fan",
+          "product_name": "FAN",
+          "models": [
+            {
+              "model_id": "ceiling_fan",
+              "model_name": "CEILING FAN",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "table_fan",
+              "model_name": "TABLE FAN",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "pedestal_fan",
+              "model_name": "PEDESTAL FAN",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "water_heater",
+          "product_name": "WATER HEATER",
+          "models": [
+            {
+              "model_id": "water_heater_model",
+              "model_name": "WATER HEATER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "tank_warranty",
+                  "warranty_name": "Tank warranty",
+                  "years": "5"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "orient",
+      "brand_name": "ORIENT",
+      "products": [
+        {
+          "product_id": "fan",
+          "product_name": "FAN",
+          "models": [
+            {
+              "model_id": "ceiling_fan",
+              "model_name": "CEILING FAN",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "table_fan",
+              "model_name": "TABLE FAN",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "pedestal_fan",
+              "model_name": "PEDESTAL FAN",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "exhaust_fan",
+              "model_name": "EXHAUST FAN",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "bajaj",
+      "brand_name": "BAJAJ",
+      "products": [
+        {
+          "product_id": "fan",
+          "product_name": "FAN",
+          "models": [
+            {
+              "model_id": "ceiling_fan",
+              "model_name": "CEILING FAN",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "table_fan",
+              "model_name": "TABLE FAN",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "pedestal_fan",
+              "model_name": "PEDESTAL FAN",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "water_heater",
+          "product_name": "WATER HEATER",
+          "models": [
+            {
+              "model_id": "water_heater_model",
+              "model_name": "BAJAJ WATER HEATER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "tank_warranty",
+                  "warranty_name": "Tank warranty",
+                  "years": "5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "otg",
+          "product_name": "OTG",
+          "models": [
+            {
+              "model_id": "otg_model",
+              "model_name": "BAJAJ OTG",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "immersion_heater",
+          "product_name": "IMMERSION HEATER",
+          "models": [
+            {
+              "model_id": "immersion_heater_model",
+              "model_name": "BAJAJ IMMERSION HEATER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "polar",
+      "brand_name": "POLAR",
+      "products": [
+        {
+          "product_id": "fan",
+          "product_name": "FAN",
+          "models": [
+            {
+              "model_id": "ceiling_fan",
+              "model_name": "CEILING FAN",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "table_fan",
+              "model_name": "TABLE FAN",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "pedestal_fan",
+              "model_name": "PEDESTAL FAN",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "jainx",
+      "brand_name": "JAINX",
+      "products": [
+        {
+          "product_id": "fan",
+          "product_name": "FAN",
+          "models": [
+            {
+              "model_id": "fan_model",
+              "model_name": "JAINX FAN",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "reo",
+      "brand_name": "REO",
+      "products": [
+        {
+          "product_id": "fan",
+          "product_name": "FAN",
+          "models": [
+            {
+              "model_id": "fan_model",
+              "model_name": "REO FAN",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "polycab",
+      "brand_name": "POLYCAB",
+      "products": [
+        {
+          "product_id": "fan",
+          "product_name": "FAN",
+          "models": [
+            {
+              "model_id": "fan_model",
+              "model_name": "POLYCAB FAN",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "atomberg",
+      "brand_name": "ATOMBERG",
+      "products": [
+        {
+          "product_id": "fan",
+          "product_name": "FAN",
+          "models": [
+            {
+              "model_id": "fan_model",
+              "model_name": "ATOMBERG FAN",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "havells",
+      "brand_name": "HAVELLS",
+      "products": [
+        {
+          "product_id": "fan",
+          "product_name": "FAN",
+          "models": [
+            {
+              "model_id": "fan_model",
+              "model_name": "ATOMBERG FAN",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "water_heater",
+          "product_name": "WATER HEATER",
+          "models": [
+            {
+              "model_id": "water_heater_model",
+              "model_name": "HAVELLS WATER HEATER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "tank_warranty",
+                  "warranty_name": "Tank warranty",
+                  "years": "7"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "faber",
+      "brand_name": "FABER",
+      "products": [
+        {
+          "product_id": "chimney",
+          "product_name": "CHIMNEY",
+          "models": [
+            {
+              "model_id": "chimney_model",
+              "model_name": "FABER CHIMNEY",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "water_heater",
+          "product_name": "WATER HEATER",
+          "models": [
+            {
+              "model_id": "water_heater_model",
+              "model_name": "FABER WATER HEATER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "tank_warranty",
+                  "warranty_name": "Tank warranty",
+                  "years": "5"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "usha",
+      "brand_name": "USHA",
+      "products": [
+        {
+          "product_id": "fan",
+          "product_name": "FAN",
+          "models": [
+            {
+              "model_id": "ceiling_fan",
+              "model_name": "CEILING FAN",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "exhaust_fan",
+              "model_name": "EXHAUST FAN",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "venus",
+      "brand_name": "VENUS",
+      "products": [
+        {
+          "product_id": "water_heater",
+          "product_name": "WATER HEATER",
+          "models": [
+            {
+              "model_id": "splash_6_10_15",
+              "model_name": "SPLASH (6/10/15)",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "tank_warranty",
+                  "warranty_name": "Tank warranty",
+                  "years": "7"
+                }
+              ]
+            },
+            {
+              "model_id": "splash_3l",
+              "model_name": "SPLASH 3L",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "tank_warranty",
+                  "warranty_name": "Tank warranty",
+                  "years": "5"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "vguard",
+      "brand_name": "V-GUARD",
+      "products": [
+        {
+          "product_id": "water_heater",
+          "product_name": "WATER HEATER",
+          "models": [
+            {
+              "model_id": "water_heater_model",
+              "model_name": "V-GUARD WATER HEATER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "tank_warranty",
+                  "warranty_name": "Tank warranty",
+                  "years": "5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "stabilizer",
+          "product_name": "STABILIZER",
+          "models": [
+            {
+              "model_id": "single_booster",
+              "model_name": "SINGLE BOOSTER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "double_booster_arizona",
+              "model_name": "DOUBLE BOOSTER - ARIZONA",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "3"
+                }
+              ]
+            },
+            {
+              "model_id": "double_booster_vnd400",
+              "model_name": "DOUBLE BOOSTER - VND400+",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "triple_booster",
+              "model_name": "TRIPLE BOOSTER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "immersion_heater",
+          "product_name": "IMMERSION HEATER",
+          "models": [
+            {
+              "model_id": "immersion_heater_model",
+              "model_name": "V-GUARD IMMERSION HEATER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "philips",
+      "brand_name": "PHILIPS",
+      "products": [
+        {
+          "product_id": "tv",
+          "product_name": "TV",
+          "models": [
+            {
+              "model_id": "tv_model",
+              "model_name": "PHILIPS TV",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "home_theater",
+          "product_name": "HOME THEATER",
+          "models": [
+            {
+              "model_id": "home_theater_model",
+              "model_name": "PHILIPS HOME THEATER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "skyworth",
+      "brand_name": "SKYWORTH",
+      "products": [
+        {
+          "product_id": "tv",
+          "product_name": "TV",
+          "models": [
+            {
+              "model_id": "tv_model",
+              "model_name": "SKYWORTH TV",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "wybor",
+      "brand_name": "WYBOR",
+      "products": [
+        {
+          "product_id": "tv",
+          "product_name": "TV",
+          "models": [
+            {
+              "model_id": "tv_model",
+              "model_name": "WYBOR TV",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "panasonic",
+      "brand_name": "PANASONIC",
+      "products": [
+        {
+          "product_id": "ac",
+          "product_name": "AC",
+          "models": [
+            {
+              "model_id": "split_inverter",
+              "model_name": "SPLIT-INVERTER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "compressor_warranty",
+                  "warranty_name": "Compressor warranty",
+                  "years": "10"
+                }
+              ]
+            },
+            {
+              "model_id": "split_non_inverter",
+              "model_name": "SPLIT-NON-INVERTER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "compressor_warranty",
+                  "warranty_name": "Compressor warranty",
+                  "years": "5"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "hitachi",
+      "brand_name": "HITACHI",
+      "products": [
+        {
+          "product_id": "ac",
+          "product_name": "AC",
+          "models": [
+            {
+              "model_id": "split_inverter",
+              "model_name": "SPLIT-INVERTER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "compressor_warranty",
+                  "warranty_name": "Compressor warranty",
+                  "years": "10"
+                }
+              ]
+            },
+            {
+              "model_id": "split_non_inverter",
+              "model_name": "SPLIT-NON-INVERTER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "compressor_warranty",
+                  "warranty_name": "Compressor warranty",
+                  "years": "5"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "mitsubishi",
+      "brand_name": "MITSUBISHI",
+      "products": [
+        {
+          "product_id": "ac",
+          "product_name": "AC",
+          "models": [
+            {
+              "model_id": "split_inverter",
+              "model_name": "SPLIT-INVERTER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "compressor_warranty",
+                  "warranty_name": "Compressor warranty",
+                  "years": "10"
+                }
+              ]
+            },
+            {
+              "model_id": "split_non_inverter",
+              "model_name": "SPLIT-NON-INVERTER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "compressor_warranty",
+                  "warranty_name": "Compressor warranty",
+                  "years": "5"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "ogeneral",
+      "brand_name": "OGENERAL",
+      "products": [
+        {
+          "product_id": "ac",
+          "product_name": "AC",
+          "models": [
+            {
+              "model_id": "split_inverter",
+              "model_name": "SPLIT-INVERTER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "compressor_warranty",
+                  "warranty_name": "Compressor warranty",
+                  "years": "10"
+                }
+              ]
+            },
+            {
+              "model_id": "split_non_inverter",
+              "model_name": "SPLIT-NON-INVERTER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "compressor_warranty",
+                  "warranty_name": "Compressor warranty",
+                  "years": "5"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "llyod",
+      "brand_name": "LLOYD",
+      "products": [
+        {
+          "product_id": "ac",
+          "product_name": "AC",
+          "models": [
+            {
+              "model_id": "split_inverter",
+              "model_name": "SPLIT-INVERTER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "compressor_warranty",
+                  "warranty_name": "Compressor warranty",
+                  "years": "10"
+                }
+              ]
+            },
+            {
+              "model_id": "split_non_inverter",
+              "model_name": "SPLIT-NON-INVERTER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "compressor_warranty",
+                  "warranty_name": "Compressor warranty",
+                  "years": "5"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "onida",
+      "brand_name": "ONIDA",
+      "products": [
+        {
+          "product_id": "ac",
+          "product_name": "AC",
+          "models": [
+            {
+              "model_id": "split_inverter",
+              "model_name": "SPLIT-INVERTER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "compressor_warranty",
+                  "warranty_name": "Compressor warranty",
+                  "years": "10"
+                }
+              ]
+            },
+            {
+              "model_id": "split_non_inverter",
+              "model_name": "SPLIT-NON-INVERTER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "compressor_warranty",
+                  "warranty_name": "Compressor warranty",
+                  "years": "5"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "carrier",
+      "brand_name": "CARRIER",
+      "products": [
+        {
+          "product_id": "ac",
+          "product_name": "AC",
+          "models": [
+            {
+              "model_id": "split_inverter",
+              "model_name": "SPLIT-INVERTER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "compressor_warranty",
+                  "warranty_name": "Compressor warranty",
+                  "years": "10"
+                }
+              ]
+            },
+            {
+              "model_id": "split_non_inverter",
+              "model_name": "SPLIT-NON-INVERTER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "compressor_warranty",
+                  "warranty_name": "Compressor warranty",
+                  "years": "5"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "daikin",
+      "brand_name": "DAIKIN",
+      "products": [
+        {
+          "product_id": "ac",
+          "product_name": "AC",
+          "models": [
+            {
+              "model_id": "split_inverter",
+              "model_name": "SPLIT-INVERTER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "compressor_warranty",
+                  "warranty_name": "Compressor warranty",
+                  "years": "10"
+                }
+              ]
+            },
+            {
+              "model_id": "split_non_inverter",
+              "model_name": "SPLIT-NON-INVERTER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "compressor_warranty",
+                  "warranty_name": "Compressor warranty",
+                  "years": "5"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "voltas",
+      "brand_name": "VOLTAS",
+      "products": [
+        {
+          "product_id": "ac",
+          "product_name": "AC",
+          "models": [
+            {
+              "model_id": "split_inverter",
+              "model_name": "SPLIT-INVERTER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "compressor_warranty",
+                  "warranty_name": "Compressor warranty",
+                  "years": "10"
+                }
+              ]
+            },
+            {
+              "model_id": "split_non_inverter",
+              "model_name": "SPLIT-NON-INVERTER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "compressor_warranty",
+                  "warranty_name": "Compressor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "window",
+              "model_name": "WINDOW",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "compressor_warranty",
+                  "warranty_name": "Compressor warranty",
+                  "years": "5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "dispenser",
+          "product_name": "DISPENSER",
+          "models": [
+            {
+              "model_id": "dipenser_model",
+              "model_name": "VOLTAS DISPENSER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "bluestar",
+      "brand_name": "BLUESTAR",
+      "products": [
+        {
+          "product_id": "ac",
+          "product_name": "AC",
+          "models": [
+            {
+              "model_id": "split_inverter",
+              "model_name": "SPLIT-INVERTER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "compressor_warranty",
+                  "warranty_name": "Compressor warranty",
+                  "years": "10"
+                }
+              ]
+            },
+            {
+              "model_id": "split_non_inverter",
+              "model_name": "SPLIT-NON-INVERTER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "compressor_warranty",
+                  "warranty_name": "Compressor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "window",
+              "model_name": "WINDOW",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "compressor_warranty",
+                  "warranty_name": "Compressor warranty",
+                  "years": "5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "dispenser",
+          "product_name": "DISPENSER",
+          "models": [
+            {
+              "model_id": "dipenser_model",
+              "model_name": "VOLTAS DISPENSER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "water_purifier",
+          "product_name": "WATER PURIFIER",
+          "models": [
+            {
+              "model_id": "water_purifier_model",
+              "model_name": "BLUESTAR WATER PURIFIER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "iball",
+      "brand_name": "IBALL",
+      "products": [
+        {
+          "product_id": "home_theater",
+          "product_name": "HOME THEATER",
+          "models": [
+            {
+              "model_id": "home_theater_model",
+              "model_name": "IBALL HOME THEATER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "black_plus_decker",
+      "brand_name": "BLACK+DECKER",
+      "products": [
+        {
+          "product_id": "otg",
+          "product_name": "OTG",
+          "models": [
+            {
+              "model_id": "otg_model",
+              "model_name": "BLACK+DECKER OTG",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "wingme",
+      "brand_name": "WINGME",
+      "products": [
+        {
+          "product_id": "home_theater",
+          "product_name": "HOME THEATER",
+          "models": [
+            {
+              "model_id": "home_theater_model",
+              "model_name": "WINGME HOME THEATER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "everest",
+      "brand_name": "EVEREST",
+      "products": [
+        {
+          "product_id": "stabilizer",
+          "product_name": "STABILIZER",
+          "models": [
+            {
+              "model_id": "single_booster",
+              "model_name": "SINGLE. BOOSTER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "service_warranty",
+                  "warranty_name": "Service warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "double_booster",
+              "model_name": "DOUBLE BOOSTER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "service_warranty",
+                  "warranty_name": "Service warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "triple_booster",
+              "model_name": "TRIPLE BOOSTER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "service_warranty",
+                  "warranty_name": "Service warranty",
+                  "years": "5"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "microtek",
+      "brand_name": "MICROTEK",
+      "products": [
+        {
+          "product_id": "stabilizer",
+          "product_name": "STABILIZER",
+          "models": [
+            {
+              "model_id": "single_booster",
+              "model_name": "SINGLE. BOOSTER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "3"
+                }
+              ]
+            },
+            {
+              "model_id": "double_booster",
+              "model_name": "DOUBLE BOOSTER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "3"
+                }
+              ]
+            },
+            {
+              "model_id": "triple_booster",
+              "model_name": "TRIPLE BOOSTER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "shakthi",
+      "brand_name": "SHAKTHI",
+      "products": [
+        {
+          "product_id": "stabilizer",
+          "product_name": "STABILIZER",
+          "models": [
+            {
+              "model_id": "single_booster",
+              "model_name": "SINGLE. BOOSTER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            },
+            {
+              "model_id": "double_booster",
+              "model_name": "DOUBLE BOOSTER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            },
+            {
+              "model_id": "triple_booster",
+              "model_name": "TRIPLE BOOSTER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "eureka_forbes",
+      "brand_name": "EUREKA FORBES",
+      "products": [
+        {
+          "product_id": "vaccum_cleaner",
+          "product_name": "VACCUM CLEANER",
+          "models": [
+            {
+              "model_id": "vaccum_cleaner_model",
+              "model_name": "EUREKA FORBES VACCUM CLEANER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "aquaguard",
+      "brand_name": "AQUAGUARD",
+      "products": [
+        {
+          "product_id": "water_purifier",
+          "product_name": "WATER PURIFIER",
+          "models": [
+            {
+              "model_id": "water_purifier_model",
+              "model_name": "AQUAGUARD WATER PURIFIER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "samsung",
+      "brand_name": "SAMSUNG",
+      "products": [
+        {
+          "product_id": "ac",
+          "product_name": "AC",
+          "models": [
+            {
+              "model_id": "inverter",
+              "model_name": "INVERTER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "compressor_warranty",
+                  "warranty_name": "Compressor warranty",
+                  "years": "10"
+                }
+              ]
+            },
+            {
+              "model_id": "non_inverter",
+              "model_name": "NON-INVERTER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "compressor_warranty",
+                  "warranty_name": "Compressor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "convertible_inverter",
+              "model_name": "CONVERTIBLE 5 in 1 INVERTER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "compressor_warranty",
+                  "warranty_name": "Compressor warranty",
+                  "years": "5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "washing_machine",
+          "product_name": "WASHING MACHINE",
+          "models": [
+            {
+              "model_id": "semi",
+              "model_name": "SEMI",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "washmotor_warranty",
+                  "warranty_name": "Wash Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "non_invertor_top_load_wobble",
+              "model_name": "NON INVERTER TOP LOAD - WOBBLE",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "invertor_top_load",
+              "model_name": "INVERTER TOP LOAD",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "3"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "12"
+                }
+              ]
+            },
+            {
+              "model_id": "front_load_diamond_drum",
+              "model_name": "FRONT LOAD - DIAMOND DRUM",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "3"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "10"
+                }
+              ]
+            },
+            {
+              "model_id": "front_load_eco_bubble",
+              "model_name": "FRONT LOAD - ECO BUBBLE",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "3"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "10"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "fridge",
+          "product_name": "FRIDGE",
+          "models": [
+            {
+              "model_id": "fridge_model",
+              "model_name": "SAMSUNG FRIDGE",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "compressor_warranty",
+                  "warranty_name": "Compressor warranty",
+                  "years": "10"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "tv",
+          "product_name": "TV",
+          "models": [
+            {
+              "model_id": "normal_uhd",
+              "model_name": "NORMAL / UHD",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "qleds",
+              "model_name": "QLED",
+              "warranty_details": [
+                {
+                  "warranty_id": "pixel_burning_warranty",
+                  "warranty_name": "Pixel Burning Warranty",
+                  "years": "10"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "oven",
+          "product_name": "OVEN",
+          "models": [
+            {
+              "model_id": "solo",
+              "model_name": "SOLO",
+              "warranty_details": [
+                {
+                  "warranty_id": "scratch_prrof_warranty",
+                  "warranty_name": "Scratch Proof warranty",
+                  "years": "10"
+                }
+              ]
+            },
+            {
+              "model_id": "convention",
+              "model_name": "CONVENTION",
+              "warranty_details": [
+                {
+                  "warranty_id": "scratch_prrof_warranty",
+                  "warranty_name": "Scratch Proof warranty",
+                  "years": "10"
+                },
+                {
+                  "warranty_id": "heating_element_warranty",
+                  "warranty_name": "Heating Element warranty",
+                  "years": "5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "home_theater",
+          "product_name": "HOME THEATER",
+          "models": [
+            {
+              "model_id": "home_theater_model",
+              "model_name": "SAMSUNG HOME THEATER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "whirlpool",
+      "brand_name": "WHIRLPOOL",
+      "products": [
+        {
+          "product_id": "ac",
+          "product_name": "AC",
+          "models": [
+            {
+              "model_id": "inverter",
+              "model_name": "INVERTER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "compressor_warranty",
+                  "warranty_name": "Compressor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "non_inverter",
+              "model_name": "NON-INVERTER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "compressor_warranty",
+                  "warranty_name": "Compressor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "inverter_wifi",
+              "model_name": "INVERTER WIFI",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "compressor_warranty",
+                  "warranty_name": "Compressor warranty",
+                  "years": "10"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "washing_machine",
+          "product_name": "WASHING MACHINE",
+          "models": [
+            {
+              "model_id": "semi_supreme_plus",
+              "model_name": "SEMI - SUPREME +",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "washmotor_warranty",
+                  "warranty_name": "Wash Motor warranty",
+                  "years": "3"
+                }
+              ]
+            },
+            {
+              "model_id": "semi_ace_xl",
+              "model_name": "SEMI - ACE XL",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "10"
+                }
+              ]
+            },
+            {
+              "model_id": "fully",
+              "model_name": "FULLY",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "10"
+                }
+              ]
+            },
+            {
+              "model_id": "front",
+              "model_name": "FRONT",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "10"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "fridge",
+          "product_name": "FRIDGE",
+          "models": [
+            {
+              "model_id": "fridge_model",
+              "model_name": "WHIRLPOOL FRIDGE",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "compressor_warranty",
+                  "warranty_name": "Compressor warranty",
+                  "years": "10"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "oven",
+          "product_name": "OVEN",
+          "models": [
+            {
+              "model_id": "solo",
+              "model_name": "SOLO",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            },
+            {
+              "model_id": "convention",
+              "model_name": "CONVENTION",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "water_prifier",
+          "product_name": "WATER PURIFIER",
+          "models": [
+            {
+              "model_id": "water_prifier_model",
+              "model_name": "WHIRLPOOL WATER PURIFIER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "lg",
+      "brand_name": "LG",
+      "products": [
+        {
+          "product_id": "ac",
+          "product_name": "AC",
+          "models": [
+            {
+              "model_id": "inverter",
+              "model_name": "INVERTER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "compressor_warranty",
+                  "warranty_name": "Compressor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "non_inverter",
+              "model_name": "NON-INVERTER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "washing_machine",
+          "product_name": "WASHING MACHINE",
+          "models": [
+            {
+              "model_id": "semi",
+              "model_name": "SEMI",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "fully",
+              "model_name": "FULLY",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "10"
+                }
+              ]
+            },
+            {
+              "model_id": "front",
+              "model_name": "FRONT",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "10"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "fridge",
+          "product_name": "FRIDGE",
+          "models": [
+            {
+              "model_id": "fridge_model",
+              "model_name": "LG FRIDGE",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "compressor_warranty",
+                  "warranty_name": "Compressor warranty",
+                  "years": "10"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "oven",
+          "product_name": "OVEN",
+          "models": [
+            {
+              "model_id": "solo",
+              "model_name": "SOLO",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "pvb_warranty",
+                  "warranty_name": "PCB warranty",
+                  "years": "0.5"
+                }
+              ]
+            },
+            {
+              "model_id": "convention",
+              "model_name": "CONVENTION",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "magnetron_warranty",
+                  "warranty_name": "Magnetron warranty",
+                  "years": "4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "tv",
+          "product_name": "TV",
+          "models": [
+            {
+              "model_id": "tv_model",
+              "model_name": "LG TV",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "godrej",
+      "brand_name": "GODREJ",
+      "products": [
+        {
+          "product_id": "ac",
+          "product_name": "AC",
+          "models": [
+            {
+              "model_id": "inverter",
+              "model_name": "INVERTER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "compressor_warranty",
+                  "warranty_name": "Compressor warranty",
+                  "years": "10"
+                }
+              ]
+            },
+            {
+              "model_id": "non_inverter",
+              "model_name": "NON-INVERTER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "compressor_warranty",
+                  "warranty_name": "Compressor warranty",
+                  "years": "5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "washing_machine",
+          "product_name": "WASHING MACHINE",
+          "models": [
+            {
+              "model_id": "semi",
+              "model_name": "SEMI",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "fully",
+              "model_name": "FULLY",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "10"
+                }
+              ]
+            },
+            {
+              "model_id": "front",
+              "model_name": "FRONT",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "10"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "fridge",
+          "product_name": "FRIDGE",
+          "models": [
+            {
+              "model_id": "fridge_model",
+              "model_name": "GODREJ FRIDGE",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "compressor_warranty",
+                  "warranty_name": "Compressor warranty",
+                  "years": "10"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "oven",
+          "product_name": "OVEN",
+          "models": [
+            {
+              "model_id": "solo",
+              "model_name": "SOLO",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                }
+              ]
+            },
+            {
+              "model_id": "convention",
+              "model_name": "CONVENTION",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "magnetron_warranty",
+                  "warranty_name": "Magnetron warranty",
+                  "years": "3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "Haier",
+      "brand_name": "HAIER",
+      "products": [
+        {
+          "product_id": "ac",
+          "product_name": "AC",
+          "models": [
+            {
+              "model_id": "inverter",
+              "model_name": "INVERTER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "compressor_warranty",
+                  "warranty_name": "Compressor warranty",
+                  "years": "12"
+                }
+              ]
+            },
+            {
+              "model_id": "non_inverter",
+              "model_name": "NON-INVERTER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "compressor_warranty",
+                  "warranty_name": "Compressor warranty",
+                  "years": "6"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "washing_machine",
+          "product_name": "WASHING MACHINE",
+          "models": [
+            {
+              "model_id": "semi",
+              "model_name": "SEMI",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "fully",
+              "model_name": "FULLY",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "10"
+                }
+              ]
+            },
+            {
+              "model_id": "front",
+              "model_name": "FRONT",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "10"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "fridge",
+          "product_name": "FRIDGE",
+          "models": [
+            {
+              "model_id": "fridge_model",
+              "model_name": "HAIER FRIDGE",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "compressor_warranty",
+                  "warranty_name": "Compressor warranty",
+                  "years": "10"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "product_id": "oven",
+          "product_name": "OVEN",
+          "models": [
+            {
+              "model_id": "solo",
+              "model_name": "SOLO",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "magnetron_warranty",
+                  "warranty_name": "Magnetron warranty",
+                  "years": "3"
+                }
+              ]
+            },
+            {
+              "model_id": "convention",
+              "model_name": "CONVENTION",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
                 }
               ]
             }
