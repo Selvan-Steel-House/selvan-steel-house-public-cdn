@@ -2635,6 +2635,11 @@
                   "warranty_id": "total_warranty",
                   "warranty_name": "Total warranty",
                   "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "10"
                 }
               ]
             },
@@ -2646,6 +2651,11 @@
                   "warranty_id": "total_warranty",
                   "warranty_name": "Total warranty",
                   "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "10"
                 }
               ]
             },
@@ -2657,6 +2667,11 @@
                   "warranty_id": "total_warranty",
                   "warranty_name": "Total warranty",
                   "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "10"
                 }
               ]
             },
@@ -2668,6 +2683,11 @@
                   "warranty_id": "total_warranty",
                   "warranty_name": "Total warranty",
                   "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "10"
                 }
               ]
             },
@@ -2679,6 +2699,11 @@
                   "warranty_id": "total_warranty",
                   "warranty_name": "Total warranty",
                   "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "10"
                 }
               ]
             },
@@ -2690,6 +2715,11 @@
                   "warranty_id": "total_warranty",
                   "warranty_name": "Total warranty",
                   "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "10"
                 }
               ]
             },
@@ -2701,6 +2731,11 @@
                   "warranty_id": "total_warranty",
                   "warranty_name": "Total warranty",
                   "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "10"
                 }
               ]
             },
@@ -2712,6 +2747,11 @@
                   "warranty_id": "total_warranty",
                   "warranty_name": "Total warranty",
                   "years": "2"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "10"
                 }
               ]
             }
@@ -3084,6 +3124,11 @@
                   "warranty_id": "total_warranty",
                   "warranty_name": "Total warranty",
                   "years": "2"
+                },
+                {
+                  "warranty_id": "heating_coil__warranty",
+                  "warranty_name": "Heating Coil warranty",
+                  "years": "5"
                 }
               ]
             },
@@ -3094,7 +3139,12 @@
                 {
                   "warranty_id": "total_warranty",
                   "warranty_name": "Total warranty",
-                  "years": "2"
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "heating_coil__warranty",
+                  "warranty_name": "Heating Coil warranty",
+                  "years": "3"
                 }
               ]
             },
@@ -3138,7 +3188,12 @@
                 {
                   "warranty_id": "total_warranty",
                   "warranty_name": "Total warranty",
-                  "years": "2"
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "heating_coil__warranty",
+                  "warranty_name": "Heating Coil warranty",
+                  "years": "3"
                 }
               ]
             },
@@ -3160,7 +3215,7 @@
                 {
                   "warranty_id": "total_warranty",
                   "warranty_name": "Total warranty",
-                  "years": "2"
+                  "years": "1"
                 }
               ]
             },
@@ -3215,7 +3270,7 @@
                 {
                   "warranty_id": "total_warranty",
                   "warranty_name": "Total warranty",
-                  "years": "2"
+                  "years": "1"
                 }
               ]
             },
@@ -3226,7 +3281,12 @@
                 {
                   "warranty_id": "total_warranty",
                   "warranty_name": "Total warranty",
-                  "years": "2"
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "heating_coil__warranty",
+                  "warranty_name": "Heating Coil warranty",
+                  "years": "3"
                 }
               ]
             },
@@ -3248,7 +3308,12 @@
                 {
                   "warranty_id": "total_warranty",
                   "warranty_name": "Total warranty",
-                  "years": "2"
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "heating_coil__warranty",
+                  "warranty_name": "Heating Coil warranty",
+                  "years": "5"
                 }
               ]
             },
@@ -3259,7 +3324,12 @@
                 {
                   "warranty_id": "total_warranty",
                   "warranty_name": "Total warranty",
-                  "years": "2"
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "heating_coil__warranty",
+                  "warranty_name": "Heating Coil warranty",
+                  "years": "3"
                 }
               ]
             }
@@ -3362,9 +3432,9 @@
               "model_name": "PLATINUM",
               "warranty_details": [
                 {
-                  "warranty_id": "motor_warranty",
-                  "warranty_name": "Motor warranty",
-                  "years": "5"
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Toal warranty",
+                  "years": "2"
                 }
               ]
             },
@@ -3483,6 +3553,11 @@
               "model_name": "GALAXY",
               "warranty_details": [
                 {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
+                {
                   "warranty_id": "motor_warranty",
                   "warranty_name": "Motor warranty",
                   "years": "5"
@@ -3494,9 +3569,9 @@
               "model_name": "CROWN PINK (super extractor)",
               "warranty_details": [
                 {
-                  "warranty_id": "motor_warranty",
-                  "warranty_name": "Motor warranty",
-                  "years": "5"
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
                 }
               ]
             },
@@ -3527,9 +3602,9 @@
               "model_name": "ELITE 600W",
               "warranty_details": [
                 {
-                  "warranty_id": "motor_warranty",
-                  "warranty_name": "Motor warranty",
-                  "years": "5"
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
                 }
               ]
             },
@@ -3537,6 +3612,11 @@
               "model_id": "crystal",
               "model_name": "CRYSTAL",
               "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                },
                 {
                   "warranty_id": "motor_warranty",
                   "warranty_name": "Motor warranty",
@@ -3549,9 +3629,9 @@
               "model_name": "TRIO",
               "warranty_details": [
                 {
-                  "warranty_id": "motor_warranty",
-                  "warranty_name": "Motor warranty",
-                  "years": "5"
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
                 }
               ]
             },
@@ -3560,9 +3640,9 @@
               "model_name": "ECO CHEF NEO",
               "warranty_details": [
                 {
-                  "warranty_id": "motor_warranty",
-                  "warranty_name": "Motor warranty",
-                  "years": "5"
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
                 }
               ]
             },
@@ -3571,9 +3651,9 @@
               "model_name": "EVO CHEF STAR",
               "warranty_details": [
                 {
-                  "warranty_id": "motor_warranty",
-                  "warranty_name": "Motor warranty",
-                  "years": "5"
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
                 }
               ]
             },
@@ -3582,9 +3662,9 @@
               "model_name": "CROWN",
               "warranty_details": [
                 {
-                  "warranty_id": "motor_warranty",
-                  "warranty_name": "Motor warranty",
-                  "years": "5"
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
                 }
               ]
             },
@@ -3593,9 +3673,9 @@
               "model_name": "STEELE 110V W/O EXTRACTOR",
               "warranty_details": [
                 {
-                  "warranty_id": "motor_warranty",
-                  "warranty_name": "Motor warranty",
-                  "years": "5"
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
                 }
               ]
             },
@@ -4668,6 +4748,28 @@
                   "warranty_id": "total_warranty",
                   "warranty_name": "Total warranty",
                   "years": "3"
+                }
+              ]
+            },
+            {
+              "model_id": "fridge_stabilizer",
+              "model_name": "FRIDGE STABILIZER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
+                }
+              ]
+            },
+            {
+              "model_id": "tv_stabilizer",
+              "model_name": "TV STABILIZER",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "2"
                 }
               ]
             }
@@ -6032,17 +6134,6 @@
                   "years": "5"
                 }
               ]
-            },
-            {
-              "model_id": "non_inverter",
-              "model_name": "NON-INVERTER",
-              "warranty_details": [
-                {
-                  "warranty_id": "total_warranty",
-                  "warranty_name": "Total warranty",
-                  "years": "1"
-                }
-              ]
             }
           ]
         },
@@ -6473,6 +6564,226 @@
                   "warranty_id": "total_warranty",
                   "warranty_name": "Total warranty",
                   "years": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brand_id": "elica",
+      "brand_name": "ELICA",
+      "products": [
+        {
+          "product_id": "chimney",
+          "product_name": "CHIMNEY",
+          "models": [
+            {
+              "model_id": "wdfl_606_hac_ms_nero",
+              "model_name": "WDFL 606 HAC MS NERO",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "strip_cf_60_nero",
+              "model_name": "Strip CF 60 NERO",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "efl_s607_vms",
+              "model_name": "EFL-S607 VMS",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "strip_bf_60_nero",
+              "model_name": "Strip BF 60 Nero",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "wd_tbf_hac_60_ms_nero",
+              "model_name": "WD TBF HAC 60 MS NERO",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "wdfl_906_hac_ms_nero",
+              "model_name": "WDFL 906 HAC MS NERO",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "tbc_hac_touch_bf_60_ms_nero",
+              "model_name": "TBC HAC TOUCH BF 60 MS NERO",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "tcg_slim_bf_60_nero",
+              "model_name": "TCG SLIM BF 60 NERO",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "efl_s601_hac_vms",
+              "model_name": "EFL-S601 HAC VMS",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "wdfl_608_hac_ms_nero",
+              "model_name": "WDFL 608 HAC MS NERO",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "wd_hac_touch_bf_90",
+              "model_name": "WD HAC Touch BF 90",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "wd_bf_606_hac_ms_nero",
+              "model_name": "WD BF 606 HAC MS NERO",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
+                }
+              ]
+            },
+            {
+              "model_id": "glace_sf_etb_plus_ltw_60_pb_led",
+              "model_name": "GLACE SF ETB PLUS LTW 60 PB LED",
+              "warranty_details": [
+                {
+                  "warranty_id": "total_warranty",
+                  "warranty_name": "Total warranty",
+                  "years": "1"
+                },
+                {
+                  "warranty_id": "motor_warranty",
+                  "warranty_name": "Motor warranty",
+                  "years": "5"
                 }
               ]
             }
